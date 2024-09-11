@@ -4,7 +4,7 @@ import App from './App.jsx'
 import './index.css'
 
   <StrictMode>
-    <h1>Hello React
+    <h1>
     </h1>
     <App />
   </StrictMode>
